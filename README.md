@@ -1,6 +1,6 @@
 ### I'm Aiden 🦊
 
-According to Statistics Canada, popularity of my name [peaked in 2009](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2023021-eng.htm?HPA=1) at 0.581%. Admittedly, I would have thought it would be higher than that. My name might be relatively common, but I promise you I have some interesting things to say/create/contribute.
+According to Statistics Canada, popularity of my name [peaked in 2009](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2023021-eng.htm?HPA=1) at 0.581%. Admittedly, I would have thought it would be higher than that.
 
 #### About Me
 
