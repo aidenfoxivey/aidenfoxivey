@@ -4,7 +4,7 @@ According to Statistics Canada, popularity of my name [peaked in 2009](https://w
 
 #### About Me
 
-For 2/3s of the year, I study Computer Engineering 💻 at the University of Waterloo 🪿. (I **graduate** in **2026**!!)
+For 2/3s of the year, I study **Computer Engineering** 💻 at the **University of Waterloo** 🪿. (I **graduate** in **2026**!!)
 
 The other third I spend working on interesting problems at co-op. I've worked at:
 - the provincial government
@@ -12,7 +12,6 @@ The other third I spend working on interesting problems at co-op. I've worked at
 - Cosine Networks (a pre-seed network tech startup)
 
 #### Languages
-I'm a big of a polyglot when it comes to languages, so I've listed here the rough orders of my competencies.
 
 ##### Skilled
 - C
@@ -36,3 +35,4 @@ I am a big fan of lemurs, compilers, Python, data engineering, cryptography, and
 
 ![lemur](https://github.com/aidenfoxivey/aidenfoxivey/assets/71291879/43642cdd-47d4-474c-b60b-99f9bcb9211a)
 
+P.S. I make sure to eat my vegetables and write my unit tests.
