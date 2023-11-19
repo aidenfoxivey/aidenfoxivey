@@ -9,7 +9,7 @@ For 2/3s of the year, I study **Computer Engineering** 💻 at the **University 
 The other third I spend working on interesting problems at co-op. I've worked at:
 - the provincial government, doing computer vision and NLP
 - Huawei Technologies, where I helped create [MLACC](https://conferences.sigcomm.org/events/apnet2023/papers/sec4-toward.pdf)
-- Cosine Networks (a pre-seed network tech startup), working with [wireguard](https://www.wireguard.com/)
+- [Cosine Networks](https://cosinenetworks.ca) (a pre-seed network tech startup), working with [wireguard](https://www.wireguard.com/)
 
 #### Languages
 
