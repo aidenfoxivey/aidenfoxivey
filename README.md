@@ -7,7 +7,7 @@ According to Statistics Canada, popularity of my name [peaked in 2009](https://w
 For 2/3s of the year, I study **Computer Engineering** 💻 at the **University of Waterloo** 🪿. (I **graduate** in **2026**!!)
 
 The other third I spend working on interesting problems at co-op. I've worked at:
-- the provincial government, doing computer vision and NLP
+- the provincial government, doing [computer vision](https://opencv.org/) and [NLP](https://spacy.io/)
 - Huawei Technologies, where I helped create [MLACC](https://conferences.sigcomm.org/events/apnet2023/papers/sec4-toward.pdf)
 - [Cosine Networks](https://cosinenetworks.ca) (a pre-seed network tech startup), working with [wireguard](https://www.wireguard.com/)
 
@@ -28,6 +28,8 @@ The other third I spend working on interesting problems at co-op. I've worked at
 - HTML + CSS
 - Java
 - VHDL + Verilog
+- Scheme
+- Forth
 
 #### Interests
 
