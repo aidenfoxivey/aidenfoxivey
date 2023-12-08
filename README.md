@@ -27,6 +27,7 @@ The other third I spend working on interesting problems at co-op. I've worked at
 - JavaScript
 - HTML + CSS
 - Java
+- Julia
 - VHDL + Verilog
 - Scheme
 - Forth
