@@ -11,6 +11,9 @@ The other third I spend working on interesting problems at co-op. I've worked at
 - Huawei Technologies, where I helped create [MLACC](https://conferences.sigcomm.org/events/apnet2023/papers/sec4-toward.pdf)
 - [Cosine Networks](https://cosinenetworks.ca) (a pre-seed network tech startup), working with [wireguard](https://www.wireguard.com/)
 
+I'm currently at:
+- [Tristero](https://www.tristero.xyz) helping develop the next generation of dark pools.
+
 #### Languages
 
 ##### Skilled
